@@ -115,7 +115,7 @@ int main()
 	}
 	case 'v':
 	{
-		printf("Vatican City ");
+		printf("Vatican City");
 		break;
 	}
 	case 'w':
